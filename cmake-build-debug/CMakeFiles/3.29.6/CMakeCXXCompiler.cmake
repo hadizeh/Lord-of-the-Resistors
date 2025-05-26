@@ -1,4 +1,4 @@
-set(CMAKE_CXX_COMPILER "C:/MinGW2/bin/c++.exe")
+set(CMAKE_CXX_COMPILER "C:/MinGW/MinGW/bin/c++.exe")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_COMPILER_VERSION "5.1.0")
@@ -22,14 +22,14 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "C:/MinGW2/bin/ar.exe")
-set(CMAKE_CXX_COMPILER_AR "C:/MinGW2/bin/gcc-ar.exe")
-set(CMAKE_RANLIB "C:/MinGW2/bin/ranlib.exe")
-set(CMAKE_CXX_COMPILER_RANLIB "C:/MinGW2/bin/gcc-ranlib.exe")
-set(CMAKE_LINKER "C:/MinGW2/bin/ld.exe")
+set(CMAKE_AR "C:/MinGW/MinGW/bin/ar.exe")
+set(CMAKE_CXX_COMPILER_AR "C:/MinGW/MinGW/bin/gcc-ar.exe")
+set(CMAKE_RANLIB "C:/MinGW/MinGW/bin/ranlib.exe")
+set(CMAKE_CXX_COMPILER_RANLIB "C:/MinGW/MinGW/bin/gcc-ranlib.exe")
+set(CMAKE_LINKER "C:/MinGW/MinGW/bin/ld.exe")
 set(CMAKE_LINKER_LINK "")
 set(CMAKE_LINKER_LLD "")
-set(CMAKE_CXX_COMPILER_LINKER "C:/MinGW2/mingw32/bin/ld.exe")
+set(CMAKE_CXX_COMPILER_LINKER "C:/MinGW/MinGW/mingw32/bin/ld.exe")
 set(CMAKE_CXX_COMPILER_LINKER_ID "GNU")
 set(CMAKE_CXX_COMPILER_LINKER_VERSION 2.24)
 set(CMAKE_CXX_COMPILER_LINKER_FRONTEND_VARIANT GNU)
@@ -85,8 +85,8 @@ endif()
 
 
 
-set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "C:/MinGW2/lib/gcc/mingw32/5.1.0/include/c++;C:/MinGW2/lib/gcc/mingw32/5.1.0/include/c++/mingw32;C:/MinGW2/lib/gcc/mingw32/5.1.0/include/c++/backward;C:/MinGW2/lib/gcc/mingw32/5.1.0/include;C:/MinGW2/include;C:/MinGW2/lib/gcc/mingw32/5.1.0/include-fixed")
-set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "C:/MinGW2/lib/gcc/mingw32/5.1.0/libstdc++.a;mingw32;gcc;moldname;mingwex;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex")
-set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "C:/MinGW2/lib/gcc/mingw32/5.1.0;C:/MinGW2/lib/gcc;C:/MinGW2/mingw32/lib;C:/MinGW2/lib")
+set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "C:/MinGW/MinGW/lib/gcc/mingw32/5.1.0/include/c++;C:/MinGW/MinGW/lib/gcc/mingw32/5.1.0/include/c++/mingw32;C:/MinGW/MinGW/lib/gcc/mingw32/5.1.0/include/c++/backward;C:/MinGW/MinGW/lib/gcc/mingw32/5.1.0/include;C:/MinGW/MinGW/include;C:/MinGW/MinGW/lib/gcc/mingw32/5.1.0/include-fixed")
+set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "C:/MinGW/MinGW/lib/gcc/mingw32/5.1.0/libstdc++.a;mingw32;gcc;moldname;mingwex;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex")
+set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "C:/MinGW/MinGW/lib/gcc/mingw32/5.1.0;C:/MinGW/MinGW/lib/gcc;C:/MinGW/MinGW/mingw32/lib;C:/MinGW/MinGW/lib")
 set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")
 set(CMAKE_CXX_COMPILER_CLANG_RESOURCE_DIR "")
