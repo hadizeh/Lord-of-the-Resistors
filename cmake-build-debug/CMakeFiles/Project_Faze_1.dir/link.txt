@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Project_Faze_1.dir/objects.a
+C:\MinGW\MinGW\bin\ar.exe qc CMakeFiles\Project_Faze_1.dir/objects.a @CMakeFiles\Project_Faze_1.dir\objects1.rsp
+C:\MinGW\MinGW\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\Project_Faze_1.dir/objects.a -Wl,--no-whole-archive -o Project_Faze_1.exe -Wl,--out-implib,libProject_Faze_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Project_Faze_1.dir\linkLibs.rsp
