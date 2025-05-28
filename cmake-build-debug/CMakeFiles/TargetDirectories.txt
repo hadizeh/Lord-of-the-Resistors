@@ -1,0 +1,3 @@
+D:/OOP/Project Faze 1/cmake-build-debug/CMakeFiles/Project_Faze_1.dir
+D:/OOP/Project Faze 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OOP/Project Faze 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
