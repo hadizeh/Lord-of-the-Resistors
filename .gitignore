@@ -1,4 +1,36 @@
-*.log
-/cmake-build-debug/
+# ===== CLion & JetBrains IDEs =====
 .idea/
+*.iml
+
+# ===== Build directories =====
+cmake-build-*/
+build/
+out/
+
+# ===== Compiled files =====
 *.o
+*.obj
+*.so
+*.dll
+*.exe
+*.a
+*.lib
+
+# ===== CMake files =====
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# ===== Logs and temporary files =====
+*.log
+*.tmp
+*.swp
+
+# ===== OS-specific files =====
+.DS_Store     # macOS
+Thumbs.db     # Windows
+
+# ===== User-specific settings =====
+.vscode/
