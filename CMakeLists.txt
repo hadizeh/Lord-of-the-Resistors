@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Project_Faze_1 main.cpp
         exceptions.cpp
-        exceptions.h)
+        exceptions.h
+        MNA.cpp
+        MNA.h)
