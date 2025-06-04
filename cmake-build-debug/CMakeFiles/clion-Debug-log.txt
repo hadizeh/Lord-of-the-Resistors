@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "D:\CLionProjects\OOP\faze `1\Lord-of-the-Resistors" -B "D:\CLionProjects\OOP\faze `1\Lord-of-the-Resistors\cmake-build-debug"
--- Configuring done (0.5s)
--- Generating done (0.1s)
--- Build files have been written to: D:/CLionProjects/OOP/faze `1/Lord-of-the-Resistors/cmake-build-debug
