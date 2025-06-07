@@ -7,4 +7,12 @@ add_executable(Project_Faze_1 main.cpp
         exceptions.cpp
         exceptions.h
         MNA.cpp
-        MNA.h)
+        MNA.h
+        Controller.cpp
+        Controller.h
+        Element.cpp
+        Element.h
+        Circuit.cpp
+        Circuit.h
+        Node.cpp
+        Node.h)
