@@ -55,20 +55,14 @@ build CMakeFiles/Project_Faze_1.dir/main.cpp.obj: CXX_COMPILER__Project_Faze_1_u
   OBJECT_DIR = CMakeFiles\Project_Faze_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Project_Faze_1.dir
 
-build CMakeFiles/Project_Faze_1.dir/Model.cpp.obj: CXX_COMPILER__Project_Faze_1_unscanned_Debug D$:/OOP/Project$ Faze$ 1/Model.cpp || cmake_object_order_depends_target_Project_Faze_1
-  DEP_FILE = CMakeFiles\Project_Faze_1.dir\Model.cpp.obj.d
-  FLAGS = -g -std=gnu++1z -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Project_Faze_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Project_Faze_1.dir
-
 build CMakeFiles/Project_Faze_1.dir/Controller.cpp.obj: CXX_COMPILER__Project_Faze_1_unscanned_Debug D$:/OOP/Project$ Faze$ 1/Controller.cpp || cmake_object_order_depends_target_Project_Faze_1
   DEP_FILE = CMakeFiles\Project_Faze_1.dir\Controller.cpp.obj.d
   FLAGS = -g -std=gnu++1z -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Project_Faze_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Project_Faze_1.dir
 
-build CMakeFiles/Project_Faze_1.dir/View.cpp.obj: CXX_COMPILER__Project_Faze_1_unscanned_Debug D$:/OOP/Project$ Faze$ 1/View.cpp || cmake_object_order_depends_target_Project_Faze_1
-  DEP_FILE = CMakeFiles\Project_Faze_1.dir\View.cpp.obj.d
+build CMakeFiles/Project_Faze_1.dir/exceptions.cpp.obj: CXX_COMPILER__Project_Faze_1_unscanned_Debug D$:/OOP/Project$ Faze$ 1/exceptions.cpp || cmake_object_order_depends_target_Project_Faze_1
+  DEP_FILE = CMakeFiles\Project_Faze_1.dir\exceptions.cpp.obj.d
   FLAGS = -g -std=gnu++1z -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Project_Faze_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Project_Faze_1.dir
@@ -81,7 +75,7 @@ build CMakeFiles/Project_Faze_1.dir/View.cpp.obj: CXX_COMPILER__Project_Faze_1_u
 #############################################
 # Link the executable Project_Faze_1.exe
 
-build Project_Faze_1.exe: CXX_EXECUTABLE_LINKER__Project_Faze_1_Debug CMakeFiles/Project_Faze_1.dir/main.cpp.obj CMakeFiles/Project_Faze_1.dir/Model.cpp.obj CMakeFiles/Project_Faze_1.dir/Controller.cpp.obj CMakeFiles/Project_Faze_1.dir/View.cpp.obj
+build Project_Faze_1.exe: CXX_EXECUTABLE_LINKER__Project_Faze_1_Debug CMakeFiles/Project_Faze_1.dir/main.cpp.obj CMakeFiles/Project_Faze_1.dir/Controller.cpp.obj CMakeFiles/Project_Faze_1.dir/exceptions.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Project_Faze_1.dir

@@ -1,4 +1,7 @@
 # ninja log v6
-7	97	7701427806475103	CMakeFiles/Project_Faze_1.dir/Model.cpp.obj	a21c23ef513c6e2c
-2	251	7701427806422077	CMakeFiles/Project_Faze_1.dir/main.cpp.obj	c3916d71ea23893f
+18	325	7710659227319488	CMakeFiles/Project_Faze_1.dir/Model.cpp.obj	a21c23ef513c6e2c
+5	5308	7710666126613223	CMakeFiles/Project_Faze_1.dir/main.cpp.obj	c3916d71ea23893f
 253	522	7701427808923845	Project_Faze_1.exe	e1611e10746acb21
+8	108	7710665243584364	CMakeFiles/Project_Faze_1.dir/Controller.cpp.obj	2ed335264e8caec2
+9	4183	7710668800081555	CMakeFiles/Project_Faze_1.dir/exceptions.cpp.obj	abde0cf53339309
+3	5339	7710668800031510	CMakeFiles/Project_Faze_1.dir/main.cpp.obj	c3916d71ea23893f

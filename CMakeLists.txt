@@ -5,8 +5,10 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Project_Faze_1 main.cpp
         Model.h
-        Model.cpp
         Controller.h
-        Controller.cpp
         View.h
-        View.cpp)
+        exceptions.h
+        regex.h
+        Node.h
+        Controller.cpp
+        exceptions.cpp)
